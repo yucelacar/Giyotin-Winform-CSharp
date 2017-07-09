@@ -1,0 +1,9 @@
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\bin\Debug\Giyotin.exe.config
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\bin\Debug\Giyotin.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\bin\Debug\Giyotin.pdb
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\obj\Debug\Giyotin.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\obj\Debug\Giyotin.Properties.Resources.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\obj\Debug\Giyotin.csproj.GenerateResource.Cache
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\obj\Debug\Giyotin.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\obj\Debug\Giyotin.pdb
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170412_Odev_Giyotin\Giyotin\obj\Debug\Giyotin.Giyotin.resources
